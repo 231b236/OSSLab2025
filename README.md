@@ -6,7 +6,7 @@ name : priyanshi Gupta
 
 roll no : 231b236
 
-email : priyanshi@gmail.com
+email : priyanshig242@gmail.com
 
 
 
